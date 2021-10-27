@@ -1,6 +1,6 @@
 # AmazonCloneSignalR
 
-* AmazonAngularJsClone + Asp.Net Core Web API + SignaR
+* AmazonAngularClone + Asp.Net Core Web API + SignaR
 * Added backend side to small imitation of Amazon's web application using angularjs.
 
 * Added real-time functionality using SignalR.
